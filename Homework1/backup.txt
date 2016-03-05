@@ -1,0 +1,15 @@
+
+
+<div style="width: 200px; position: absolute; top:103px; left:0px;" >
+//facebook
+<a href="http://www.facebook.com/wix" target="_blank">
+<!--id="comp-il066owzdataItem-il066ox8image" class="slimageItemiamge">
+   	    	<div class="slimageItemimagepreloader" id="comp-il066owzdataItem-il066oximagepreloader" ></div> -->
+
+ <!-- id="comp-il066owzdataItem-il066ox8link" class="slimageItemlink"> -->
+
+//twitter
+class="slimageItem" id="comp-il066owzdataItem-il066ox8">
+
+<!--id="comp-il066owzdataItem-il066ox8image" class="slimageItemiamge">
+   	    	<div class="slimageItemimagepreloader" id="comp-il066owzdataItem-il066oximagepreloader" ></div> -->
